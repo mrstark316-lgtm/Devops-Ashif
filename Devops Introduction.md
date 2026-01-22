@@ -1,4 +1,4 @@
-## What is Devops
+# What is Devops
 DevOps is all about automating and streamlining the software development lifecycle so that code moves from development to production quickly, reliably, and securely.
 
 ## Stages of DevOps are:
