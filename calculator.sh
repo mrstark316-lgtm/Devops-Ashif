@@ -6,3 +6,5 @@ x=a-c
 subtraction function
 
 Division
+
+Multiplication
